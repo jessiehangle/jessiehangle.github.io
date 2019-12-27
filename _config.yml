@@ -1,10 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Jessie Le # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+ I'm a highly motivated and data-focused graduate student who is passionate about applying data analytical skills and business understandings to solve complex problems in strategy, finance, supply chain, and customer services.
   Second description 
-  <br><br>
+  I am pursuing MS Degree in Business Analytics at Drexel University, Philadelphia, PA
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
