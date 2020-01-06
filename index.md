@@ -27,7 +27,7 @@
 <div style="text-align: justify">This is a consulting project that I was selected by the Lebow Business Anaytics Center to cooperate with a team of 5 graduate students from Business Analytics and Supply Chain major. The Drexel LeBow team investigated telematics technology and telematics use case studies in the
 government sector and the utility industry to answer question such as what the best practices for the use of telematics data are and what the critical factors required to achieve the benefits of leveraging telematics data are. With data suppplied by the client, our team analyzed and discovered the patterns to provide insights critical for the operation of Supply Chain Department.
   
-  My responsibilities in this project include:
+ [**My responsibilities in this project include:**] An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence My responsibilities in this project include:
 - Researched Key Performance Indicators (KPIs) used in telematics industry
 - Researched and summarized telematics usage from The State of Utah case study
 - Aggregated 3 data sets into one final data using SQL queries from SAP HANA
