@@ -25,7 +25,7 @@
 <a href="/pdf/Consulting%20Project%20Presentation.pdf">Presentation</a> | <a href="/pdf/Telematics%20Final%20Report.pdf">Report</a>  
 </p>
 <div style="text-align: justify">This is a consulting project that I was selected by the Lebow Business Anaytics Center to cooperate with a team of 5 graduate students from Business Analytics and Supply Chain major. The Drexel LeBow team investigated telematics technology and telematics use case studies in the
-government sector and the utility industry to answer question such as what the best practices for the use of telematics data are and what the critical factors required to achieve the benefits of leveraging telematics data are. With data suppplied by the client, our team analyzed and discovered the patterns to provive the company with useful business insights. 
+government sector and the utility industry to answer question such as what the best practices for the use of telematics data are and what the critical factors required to achieve the benefits of leveraging telematics data are. With data suppplied by the client, our team analyzed and discovered the patterns to provide insights critical for the operation of Supply Chain Department.
   
   My responsibilities in this project include:
 - Researched Key Performance Indicators (KPIs) used in telematics industry
