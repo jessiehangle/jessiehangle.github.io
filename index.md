@@ -31,9 +31,7 @@ government sector and the utility industry to answer question such as what the b
 - Researched Key Performance Indicators (KPIs) used in telematics industry
 - Researched and summarized telematics usage from The State of Utah case study
 - Aggregated 3 data sets into one final data using SQL queries from SAP HANA
-- 
-
-aggregating 3 data sets: idling time, fuel and maintananceW</div>
+- Visualized and interpreted clustering analysis on idling time
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Telematics.jpg?raw=true"/>
 <br>
