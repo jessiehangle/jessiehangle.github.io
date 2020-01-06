@@ -24,15 +24,7 @@
 <p align="left">
 <a href="/pdf/Consulting%20Project%20Presentation.pdf">Presentation</a> | <a href="/pdf/Telematics%20Final%20Report.pdf">Report</a>  
 </p>
-<div style="text-align: justify">This is a consulting project that I was selected by the Lebow Business Anaytics Center to cooperate with a team of 5 graduate students from Business Analytics and Supply Chain major. The Drexel LeBow team investigated telematics technology and telematics use case studies in the
-government sector and the utility industry to answer question such as what the best practices for the use of telematics data are and what the critical factors required to achieve the benefits of leveraging telematics data are. With data suppplied by the client, our team analyzed and discovered the patterns to provide insights critical for the operation of Supply Chain Department.
-  
- [**My responsibilities in this project include:**] 
-- Researched Key Performance Indicators (KPIs) used in telematics industry
-- Researched and summarized telematics usage from The State of Utah case study
-- Aggregated 3 data sets into one final data using SQL queries from SAP HANA
-- Visualized and interpreted clustering analysis on idling time
-- Estimated cost reduction if the comany was achieving the idle time goals </div>
+<div style="text-align: justify"> This is a consulting project that I did with a team of 5 graduate student for a client of LeBow Business Analytics Center. We investigated the best practices for the use of telematics data and analyzed data sets provied by the client to provided insights critical for the operation of Supply Chain Department. My key responsibilities were conducting industry research, cleanning and aggregating data, visualizing and interpreting clustering analysis on idling time.</div>
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Telematics.jpg?raw=true"/>
 <br>
