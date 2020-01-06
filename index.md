@@ -19,7 +19,7 @@
 
 ## Consulting Project
 
-### Telematics Data Analytics 
+### Telematics Data Analysis
 
 <p align="left">
 <a href="/pdf/Consulting%20Project%20Presentation.pdf">Presentation</a> | <a href="/pdf/Telematics%20Final%20Report.pdf">Report</a>  
