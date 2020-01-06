@@ -32,8 +32,7 @@ government sector and the utility industry to answer question such as what the b
 - Researched and summarized telematics usage from The State of Utah case study
 - Aggregated 3 data sets into one final data using SQL queries from SAP HANA
 - Visualized and interpreted clustering analysis on idling time
-- Estimated cost reduction if the comany was achieving the idle time goals 
-
+- Estimated cost reduction if the comany was achieving the idle time goals </div>
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Telematics.jpg?raw=true"/>
 <br>
