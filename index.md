@@ -17,7 +17,7 @@
 ## Time Series Analysis Project
 
 ### Prediction of USD/CNY Exchange Rate 
-This is my team project in [***FIN642: Business Conditions and Forecasting***] course which covers comprehensive and state-of-the-art forecasting methods applied to the business world. The techniques we used includes various time series analyses and econometric modeling. 
+This is my team project in ***FIN642: Business Conditions and Forecasting*** course which covers comprehensive and state-of-the-art forecasting methods applied to the business world. The techniques we used includes various time series analyses and econometric modeling. 
 
 
 
