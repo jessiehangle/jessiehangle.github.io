@@ -17,12 +17,10 @@
 ## Time Series Analysis Project
 
 ### Prediction of USD/CNY Exchange Rate 
-This is my team project in ***FIN642: Business Conditions and Forecasting*** course which covers comprehensive and state-of-the-art forecasting methods applied to the business world. The techniques we used includes various time series analyses and econometric modeling. 
-
-
-
-<img src="https://raw.githubusercontent.com/chriskhanhtran/chriskhanhtran.github.io/master/images/nlp.png"/>
-
+This is my team project in ***FIN642: Business Conditions and Forecasting*** course, which covers comprehensive and state-of-the-art forecasting methods applied to the business world. We investigates the factors that affect exchange rate movements between USD and CNY and makes forecasting for future USD/CNY exchange rate. The techniques we used includes various time series analyses and econometric modeling. The time series analysis suggests that the exchange rate change follows an autoregressive model using data from the most recent time period. The evidence from the regression model indicates that the change in exchange rate is positively correlated with the  change in forward premium of the most recent time period and the difference of inflation rate and interest rate between US and China from the last period don’t have significant effect on the change of USD/CNY exchange rate. The root of mean squared error suggests that the time series model outperforms the regression model. 
+<br>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Fin642_Group%205_Poster_Fall%202019.pdf"/>
+<br>
 
 
 ## Consulting Project
