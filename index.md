@@ -4,14 +4,13 @@
 ## Data Science Project
 ### Electric Vehicle Sale Querying and Reporting Project
 <p align="left">
-<a href="https://jessiehangle.github.io/Stock-Invesment-Portfolio-Optimization/">Github</a> | 
-<a href="https://jessiehangle.github.io/Stock-Invesment-Portfolio-Optimization/OPR%20620%20Final%20Report_Phoenix%20Fund(final)%20(1).pdf">Report</a>  
+<a href="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
 </p>
 <strong> Technical skills: SQL, SAP, Tableau </strong>
 <br>
 <div style="text-align: justify"> This is my project in <strong> Information System Course: Database Analysis and Design for Business Analytics</strong>. I built executive report to answer key business questions in sale of electric vehicles. There are three seperate data sets provided in this course: Demographic, State Population and Electric Vehicle Sale. I used SAP HANA to join and extract data from these data sets and used Tableau to visualize answers for these business questions.</div>
 <br>
-<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/7.jpg?raw=true"/>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/tableau.jpg?raw=true"/>
 <br>
 
 ### Stock Invesment Portfolio Optimization
