@@ -20,7 +20,7 @@
 <p align="left">
 <a href="/images/Fin642_Group%205_Poster_Fall%202019.pdf"> Research Poster </a>
 </p>
-<div style="text-align: justify">This is my team project in [**FIN642**]: Business Conditions and Forecasting course, which covers comprehensive and state-of-the-art forecasting methods applied to the business world. We investigates the factors that affect exchange rate movements between USD and CNY and makes forecasting for future USD/CNY exchange rate.
+<div style="text-align: justify">This is my team project in [**FIN642**](https://chriskhanhtran.github.io/projects/breast-cancer.html): Business Conditions and Forecasting course, which covers comprehensive and state-of-the-art forecasting methods applied to the business world. We investigates the factors that affect exchange rate movements between USD and CNY and makes forecasting for future USD/CNY exchange rate.
   
 The techniques we used includes various time series analyses such as ARIMA and Holt-Winters exponential smoothing and econometric modeling. The time series analysis suggests that the exchange rate change follows an autoregressive model using data from the most recent time period. The evidence from the regression model indicates that the change in exchange rate is positively correlated with the  change in forward premium of the most recent time period. The root of mean squared error suggests that the time series model outperforms the regression model. </div>
 <br>
