@@ -5,7 +5,7 @@
 
 ### Electric Vehicle Sale Querying and Reporting Project
 <p align="left">
-<a href="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
+<a href="/blob/master/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
 </p>
 <strong> Technical skills: SQL, SAP, Tableau </strong>
 <br>
