@@ -24,7 +24,7 @@
 <p align="left">
 <a href="/pdf/Consulting%20Project%20Presentation.pdf">Presentation</a> | <a href="/pdf/Telematics%20Final%20Report.pdf">Report</a>  
 </p>
-<div style="text-align: justify"> This is a consulting project that I did with a team of 5 graduate student for a client of LeBow Business Analytics Center. We investigated the best practices for the use of telematics data and analyzed data sets provied by the client to provided insights critical for the operation of Supply Chain Department. My key responsibilities were conducting industry research, cleanning and aggregating data, visualizing and interpreting clustering analysis on idling time.</div>
+<div style="text-align: justify"> This is a consulting project that I did with a team of 5 graduate student for a client of LeBow Business Analytics Center. We investigated the best practices for the use of telematics data and analyzed data sets provied by the client to give useful insights for Supply Chain Department. My key responsibilities were conducting industry research, cleanning and aggregating data, visualizing and interpreting clustering analysis on idling time.</div>
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Telematics.jpg?raw=true"/>
 <br>
