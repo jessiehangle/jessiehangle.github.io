@@ -9,7 +9,7 @@
 <a href="https://jessiehangle.github.io/Stock-Invesment-Portfolio-Optimization/">Github</a> | 
 <a href="https://jessiehangle.github.io/Stock-Invesment-Portfolio-Optimization/OPR%20620%20Final%20Report_Phoenix%20Fund(final)%20(1).pdf">Report</a>  
 </p>
-<div style="text-align: justify">This is a consulting project that I did with a team of 6 graduate student from Business Analytics Major and Supply Chain major .</div>
+<div style="text-align: justify"> This project is to apply optimization algorithms and techniques in investing stock. Our investment team will choose 40 stocks to invest and only consider buying or selling these stocks during the three-year-long investment period. The decision of buying and selling will based on the result of scenario tree with the predication on the economy of the United States and the network optimization to maximize the total revenue generated from the stock investment portfolio. Finally, there will be eight investment portfolios for different conditions and predictions. At the same time, to lower the risk, the stocks to be chosen are divides into two groups: better performance in good economy (positive beta compared to SP500 index-SPY) (Group 1) and better performance in bad economy (negative beta compared to SPY) (Group 2).</div>
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/5.jpg"/>
 <br>
