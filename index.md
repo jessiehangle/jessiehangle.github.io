@@ -71,6 +71,21 @@ The techniques we used includes various time series analyses such as ARIMA and H
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Telematics.jpg?raw=true"/>
 <br>
 
+
+### Forecasting and Optimizing Call Center Staffing
+
+<p align="left">
+<a href="/pdf/Capstone%20Project%20Presentation-Group%204.pdf">Presentation</a> | <a href="/pdf/Capstone%20Report.pdf">Report</a>  
+</p>
+
+<strong> Technical skills: Time Series Analysis, Statistical Modeling, R </strong>
+<br>
+<div style="text-align: justify"> This is Capstone Project .</div>
+<br>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/PECO.jpg?raw=true"/>
+<br>
+
+---
 ---
 
 
