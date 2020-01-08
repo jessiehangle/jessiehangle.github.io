@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-## Data Science Project
+## Data Analytics Projects
 
 ### Electric Vehicle Sale Querying and Reporting Project
 <p align="left">
@@ -14,6 +14,16 @@
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/tableau.jpg?raw=true"/>
 <br>
 
+### MLS Player Salary Analysis
+<p align="left">
+<a href="/pdf/MLS%20Player%20Salary%20Analysis.pdf"> Report </a>  
+</p>
+<strong> Technical skills: SAS, Clustering, Statistical Tests </strong>
+<br>
+<div style="text-align: justify"> This is my team project in <strong> MIS633: Predictive Business Analytics with Relational Database </strong>. This project was inspired by a huge fan of football in our team. We collect data from [American Soccer Analysis](https://www.americansocceranalysis.com/). Our goal is seeking soccer players who are undervalued by performing statistical analysis, and eventually we would recommend a team of a group of players that could pull out the best performance and cost less. My contribution is performing statistical tests such as ANOVA and t-test to confirm our hypothesis and later, cluster player into different group using K-means (page 11 - 15). Our final deliverable is the formation of new team with undervalued player.</div>
+<br>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/SAS.jpg?raw=true"/>
+<br>
 ---
 
 ## Operation Research Project
