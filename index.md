@@ -66,7 +66,7 @@ The techniques we used includes various time series analyses such as ARIMA and H
 
 <strong> Technical skills: Tableau, SQL, Data Visualization </strong>
 <br>
-<div style="text-align: justify"> This is a consulting project that I did with a team of 5 graduate student for a client of LeBow Business Analytics Center. We investigated the best practices for the use of telematics data and analyzed data sets provied by the client to give useful insights for Supply Chain Department. My key responsibilities were conducting industry research, cleanning and aggregating data, visualizing and interpreting clustering analysis on idling time.</div>
+<div style="text-align: justify"> This is a consulting project that I did with a team of 5 graduate students for a client of LeBow Business Analytics Center. We investigated the best practices for the use of telematics data and analyzed data sets provied by the client to give useful insights for Supply Chain Department. My key responsibilities were conducting industry research, cleanning and aggregating data, visualizing and interpreting clustering analysis on idling time.</div>
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Telematics.jpg?raw=true"/>
 <br>
