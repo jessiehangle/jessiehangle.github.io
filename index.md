@@ -25,7 +25,7 @@
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/SAS.jpg?raw=true"/>
 <br>
 
-### Lending Club Data Analysis
+### Lending Club Loan Data Analysis
 <p align="left">
 <a href="/pdf/DATA%20MINING%20REPORT%20-%20GROUP%204.pdf"> Report </a>  
 </p>
