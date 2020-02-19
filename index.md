@@ -5,13 +5,13 @@
 
 ### Electric Vehicle Sale Querying and Reporting Project
 <p align="left">
-<a href="/pdf/Project%20-%20Electric%20Vehicles.pdf">Report</a>  
+<a href="/pdf/DATA%20MINING%20REPORT%20-%20GROUP%204.pdf">Report</a>  
 </p>
 <strong> Technical skills: SQL, SAP, Tableau </strong>
 <br>
-<div style="text-align: justify"> This is my project in <strong> Information System Course: Database Analysis and Design for Business Analytics</strong>. I built executive report to answer key business questions in sale of electric vehicles. There are three seperate data sets provided in this course: Demographic, State Population and Electric Vehicle Sale. I used SAP HANA to join and extract data from these data sets and used Tableau to visualize answers for these business questions.</div>
+<div style="text-align: justify"> This is my project in <strong> Data Mining Graduate Course</strong>. I led to team to clean and deliver exploratory data analysis on Lending club loan data. The data set is used in Kaggle competition and available <a href="https://www.kaggle.com/wendykan/lending-club-loan-data"><strong>here</strong></a>. My technical task is to perform clusterring analysis to segmentation customers into 4 groups based on their loan conditions and their credit score. I also provided guidance and assisted other team members to use Random Forest and Discriminant algorithms to predict risk of late payment for current loans.</div>
 <br>
-<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/tableau.jpg?raw=true"/>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Lending%20club.jpg?raw=true"/>
 <br>
 
 ### MLS Player Salary Analysis
@@ -25,6 +25,16 @@
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/SAS.jpg?raw=true"/>
 <br>
 
+### Lending Club Data Analysis
+<p align="left">
+<a href="/pdf/MLS%20Player%20Salary%20Analysis.pdf"> Report </a>  
+</p>
+<strong> Technical skills: R, Exploraroty Data Analysis, Machine Learning </strong>
+<br>
+<div style="text-align: justify"> This is my team project in <strong> MIS633: Predictive Business Analytics with Relational Database </strong>. This project was inspired by a huge fan of football in our team. We collect data from <a href="https://www.americansocceranalysis.com"><strong>American Soccer Analysis</strong></a>. Our goal is seeking soccer players who are undervalued by performing statistical analysis, and eventually we would recommend a team of a group of players that could pull out the best performance and cost less. My contribution are performing statistical tests such as ANOVA and t-test to confirm our hypothesis and clustering players into different groups using K-means (page 11 - 15). Our final deliverable is the formation of new team with undervalued players.</div>
+<br>
+<img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/SAS.jpg?raw=true"/>
+<br>
 
 ## Operation Research Project
 
