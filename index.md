@@ -32,7 +32,7 @@
 
 <strong> Technical skills: R, Exploraroty Data Analysis, Machine Learning </strong>
 <br>
-<div style="text-align: justify"> This is my project in <strong> Data Mining Graduate Course</strong>. I led to team to clean and deliver exploratory data analysis on Lending club loan data. The data set is used in Kaggle competition and available <a href="https://www.kaggle.com/wendykan/lending-club-loan-data"><strong>here</strong></a>. My technical task is to perform clusterring analysis to segmentation customers into 4 groups based on their loan conditions and their credit score. I also provided guidance and assisted other team members to use Random Forest and Discriminant algorithms to predict risk of late payment for current loans.</div>
+<div style="text-align: justify"> This is my project in <strong> Data Mining Graduate Course</strong>. I led to team to clean and deliver exploratory data analysis on Lending club loan data. The data set is used in Kaggle competition and is available to download <a href="https://www.kaggle.com/wendykan/lending-club-loan-data"><strong>here</strong></a>. My technical task is to perform clusterring analysis to segment customers into 4 groups based on their loan conditions and their credit scores. I also provided guidance and assisted other team members to use Random Forest and Discriminant algorithms to predict risk of late payment for current loans.</div>
 <br>
 <img src="https://github.com/jessiehangle/jessiehangle.github.io/blob/master/images/Lending%20club.jpg?raw=true"/>
 <br>
